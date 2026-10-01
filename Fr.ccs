@@ -1,0 +1,201 @@
+{
+"name": "Asterion",
+"description": "A Comfy Dark Purple Theme",
+"authors": [
+{
+"name": "Supcoldify",
+"id": "1390947560214106224"
+}
+],
+"semanticColors": {
+"ANDROID_RIPPLE": [
+"#36013F"
+],
+"BACKGROUND_ACCENT": [
+"#36013F"
+],
+"BACKGROUND_MOBILE_PRIMARY": [
+"#36013F"
+],
+"BACKGROUND_MOBILE_SECONDARY": [
+"#36013F"
+],
+"BACKGROUND_SECONDARY": [
+"#36013F"
+],
+"BACKGROUND_SECONDARY_ALT": [
+"#36013F"
+],
+"BACKGROUND_MODIFIER_ACTIVE": [
+"#36013F"
+],
+"BACKGROUND_MODIFIER_ACCENT": [
+"#36013F"
+],
+"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+"#36013F"
+],
+"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+"#36013F"
+],
+"REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+"#36013F"
+],
+"REDESIGN_INPUT_CONTROL_SELECTED": [
+"#36013F"
+],
+"BG_BASE_TERTIARY": [
+"#36013F"
+],
+"BACKGROUND_FLOATING": [
+"#36013F"
+],
+"BG_MOD_STRONG": [
+"#36013F"
+],
+"SCROLLBAR_AUTO_THUMB": [
+"#36013F"
+],
+"BG_BACKDROP": [
+"#36013F"
+]
+},
+"rawColors": {
+"PRIMARY_600": "#36013F",
+"PRIMARY_630": "#36013F",
+"PRIMARY_645": "#36013F",
+"PRIMARY_660": "#36013F",
+"PRIMARY_700": "#36013F",
+"PRIMARY_800": "#36013F",
+"GREEN_360": "#36013F",
+"BRAND_100": "#36013F",
+"BRAND_130": "#36013F",
+"BRAND_160": "#36013F",
+"BRAND_200": "#36013F",
+"BRAND_230": "#36013F",
+"BRAND_260": "#36013F",
+"BRAND_300": "#36013F",
+"BRAND_330": "#36013F",
+"BRAND_345": "#36013F",
+"BRAND_360": "#36013F",
+"BRAND_400": "#36013F",
+"BRAND_430": "#36013F",
+"BRAND_460": "#36013F",
+"BRAND_500": "#36013F",
+"BRAND_530": "#36013F",
+"BRAND_560": "#36013F",
+"BRAND_600": "#36013F",
+"BLUE_345": "#36013F",
+"BRAND_660": "#36013F",
+"BRAND_700": "#36013F",
+"BRAND_730": "#36013F",
+"BRAND_760": "#36013F",
+"BRAND_800": "#36013F",
+"BRAND_830": "#36013F",
+"BRAND_860": "#36013F",
+"BRAND_900": "#36013F",
+"RED_400": "#36013F",
+"RED_560": "#36013F",
+"PLUM_1": "#36013F",
+"PLUM_10": "#36013F",
+"PLUM_16": "#36013F",
+"PLUM_17": "#36013F",
+"PLUM_18": "#36013F",
+"PLUM_19": "#36013F",
+"PLUM_20": "#36013F",
+"PLUM_22": "#36013F",
+"PLUM_24": "#36013F",
+"TEXT_LINK": "#36013F",
+"TEXT_NORMAL": "#36013F",
+"WHITE_500": "#36013F",
+"GUILD_BOOSTING_PINK": "#36013F",
+"GUILD_BOOSTING_PURPLE": "#36013F",
+"GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#36013F",
+"CREATOR_REVENUE_END": "#36013F",
+"CREATOR_REVENUE_START": "#36013F",
+"CRUNCHYROLL": "#36013F",
+"EBAY": "#36013F",
+"EPIC_GAMES": "#36013F",
+"FACEBOOK": "#36013F",
+"GITHUB": "#36013F",
+"GOLD": "#36013F",
+"GUILD_BOOSTING_BLUE": "#36013F",
+"GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#36013F",
+"HYPESQUAD_HOUSE_1": "#36013F",
+"HYPESQUAD_HOUSE_2": "#36013F",
+"HYPESQUAD_HOUSE_3": "#36013F",
+"PARTNER": "#36013F",
+"PAYPAL": "#36013F",
+"PLAYSTATION": "#36013F",
+"PREMIUM_PERK_BLUE": "#36013F",
+"PREMIUM_PERK_BLUE_ALT": "#36013F",
+"PREMIUM_PERK_DARK_BLUE": "#36013F",
+"PREMIUM_PERK_GOLD": "#36013F",
+"PREMIUM_PERK_GREEN": "#36013F",
+"PREMIUM_PERK_LIGHT_BLUE": "#36013F",
+"PREMIUM_PERK_ORANGE": "#36013F",
+"PREMIUM_PERK_PINK": "#36013F",
+"PREMIUM_PERK_PURPLE": "#36013F",
+"PREMIUM_PERK_YELLOW": "#36013F",
+"PREMIUM_TIER_0_BLUE": "#36013F",
+"PREMIUM_TIER_0_BLUE_FOR_GRADIENTS": "#36013F",
+"PREMIUM_TIER_0_BLUE_FOR_GRADIENTS_2": "#36013F",
+"PREMIUM_TIER_0_HEADER_GRADIENT_1": "#36013F",
+"PREMIUM_TIER_0_HEADER_GRADIENT_2": "#36013F",
+"PREMIUM_TIER_0_HEADER_GRADIENT_3": "#36013F",
+"PREMIUM_TIER_0_HEADER_GRADIENT_4": "#36013F",
+"PREMIUM_TIER_0_HEADER_GRADIENT_5": "#36013F",
+"PREMIUM_TIER_0_PURPLE": "#36013F",
+"PREMIUM_TIER_0_PURPLE_FOR_GRADIENTS": "#36013F",
+"PREMIUM_TIER_1_BLUE": "#36013F",
+"PREMIUM_TIER_1_BLUE_FOR_GRADIENTS": "#36013F",
+"PREMIUM_TIER_1_DARK_BLUE_FOR_GRADIENTS": "#36013F",
+"PREMIUM_TIER_1_PURPLE": "#36013F",
+"PREMIUM_TIER_2_PINK": "#36013F",
+"PREMIUM_TIER_2_PINK_FOR_GRADIENTS": "#36013F",
+"PREMIUM_TIER_2_PINK_FOR_GRADIENTS_2": "#36013F",
+"PREMIUM_TIER_2_PURPLE": "#36013F",
+"PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS": "#36013F",
+"PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS_2": "#36013F"
+},
+"fonts": {
+"ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+"ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+"ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+"ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+"ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+"ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+"NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+"SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+},
+"background": {
+"blur": 0,
+"url "https://ibb.co/Sw41Z1GX",
+"alpha": 1
+},
+"plus": {
+"version": 0,
+"iconpack": "rosiecord-plumpy",
+"mentionLineColor": "#36013F",
+"icons": {
+"ic_new_pins": "#36013F",
+"StatusStreaming": "#36013F",
+"StatusMobileOnline": "#36013F",
+"StatusIdle": "#36013F",
+"StatusDND": "#36013F",
+"StatusOffline": "#36013F",
+"StatusOnline": "#36013F"
+}
+},
+"spec": 2
+}
